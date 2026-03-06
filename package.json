@@ -1,9 +1,0 @@
-{
-  "name": "telegram-menfess-bot",
-  "version": "1.0.0",
-  "description": "simple telegram menfess bot",
-  "main": "index.js",
-  "dependencies": {
-    "node-telegram-bot-api": "^0.61.0"
-  }
-}
